@@ -1,4 +1,4 @@
-# ModoBot - Telegram Bot for Toxicity Detection
+# ModoBot - Telegram Bot for Toxicity Detection 🤖💬
 
 ## Overview
 
@@ -12,7 +12,7 @@ ModoBot is a Telegram bot designed to detect toxicity in messages, promoting a r
 - **Warning System:** Issues warnings and keeps track of warnings per user.
 - **Automatic Banning:** Automatically bans users in case of toxic behavior.
 
-## Getting Started
+## Getting Started 🚀
 
 ### Prerequisites
 
@@ -21,11 +21,11 @@ ModoBot is a Telegram bot designed to detect toxicity in messages, promoting a r
 - Keras
 - FastAPI
 
-## Usage
+## Usage 🤓
 
 1. Invite ModoBot to your Telegram group.
 2. Start using ModoBot for toxicity detection.
 
-## Contributing
+## Contributing 🤝
 
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated!
